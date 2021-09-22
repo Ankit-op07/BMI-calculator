@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Playfair+Display&display=swap');
+*{
+    font-family: 'Cabin', sans-serif;
+font-family: 'Playfair Display', serif;
+}
 .head{
    text-align: center;
    color: red;
-    
+}
+.card{
+    border: solid 1px rgb(218, 133, 37);
+}
+.card-header{
+    background-color:rgb(218, 133, 37);
+    color:white;
+}
+.btn{
+    background-color:rgb(218, 133, 37);
 }
